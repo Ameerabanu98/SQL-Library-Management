@@ -10,4 +10,5 @@ employees, and the status of books, making it easier for staff to handle daily t
 * Issue status: records status of the issued books
 * Return status: records status of returned books
 
-# File link : https://docs.google.com/document/d/1QJnHWWZryCLBu5O3X5RAFrTe2zGLNXeT/edit?usp=sharing&ouid=118329391945487441698&rtpof=true&sd=true
+# File link :
+https://docs.google.com/document/d/1QJnHWWZryCLBu5O3X5RAFrTe2zGLNXeT/edit?usp=sharing&ouid=118329391945487441698&rtpof=true&sd=true
